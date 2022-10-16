@@ -21,3 +21,7 @@ print(z_type)
 
 if x == 1:
     print("Yes ofc")
+elif x == 3:
+    print("Third try is the charm!")
+else:
+    print("Nope!")
