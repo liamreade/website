@@ -9,5 +9,6 @@ Anyway, this is going to be a chatroom website, with these features going for it
 * Accounts
 * General Chatrooms that anyone with an account can access
 * And (if it doesn't require too much computer storage) the ability to PM (or DM) people
+* Tag based chatting
 
 This is (hopefully) going to be used by kids without phones to chat with random people. I would therefore like to keep this as inexpensive as possible, and free to use as possible. Kids are broke. Harsh, but truer words have never been spoken.
