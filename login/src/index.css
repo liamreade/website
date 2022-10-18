@@ -1,0 +1,23 @@
+body{
+    background-color:#f4f4f4;
+    color:#555555;
+
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width:55%;
+    margin:auto;
+    padding-top: 50px;
+}
+
+.login-texture{
+    background-color:#666666;
+    color:#ffffff;
+}
+
+.login-text{
+    padding-top: 10px;
+    padding-left: 20px;
+}
