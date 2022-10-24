@@ -33,4 +33,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
         setFormMessage(loginForm, "error", "Invalid username/password combination")
     });
+
+    createAccountForm.addEventListener("submit", e => {
+        e.preventDefault();
+
+        //Perform your AJAX/Fetch login
+
+        setFormMessage(createAccountForm, "error", "Form errors found")
+    });
+
+    document.querySelectorAll(".form__input").forEach(inputElement => {
+        inputElement
+    });
+
 });
